@@ -1,0 +1,38 @@
+{
+    "productsPath":"/images/marbelia-studio/products/",
+    "galleryProperties": [
+    {
+      "id": "1",
+      "main":"IMG_4442.JPEG",
+      "title": "Ürün 1",
+      "details" : {
+        "images" : ["IMG_4442.JPEG"],
+        "primaryText": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vitae soluta explicabo cumque, unde illum repudiandae expedita ut vel quidem eveniet obcaecati doloribus aspernatur, maiores recusandae minus suscipit, corrupti fugit commodi delectus officiis. Eligendi, suscipit veniam incidunt, quaerat error sint esse delectus nisi natus corrupti eius eum ipsam rem necessitatibus tenetur laudantium? Nisi ratione, minus iure asperiores exercitationem quaerat sequi quibusdam dolorum distinctio a expedita rem? Dolor odit quae possimus esse, alias enim facilis corrupti officiis expedita commodi voluptate, quia quidem excepturi facere! Officiis nemo quidem ad ex quas iusto in cum nulla dolorum placeat asperiores, obcaecati quis eius autem sint!",
+        "secondaryText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus fugiat impedit esse perspiciatis veniam, perferendis ut eius quae deserunt dicta.",
+        "colors": ["red","black","blue"]
+      }
+    },
+    {
+      "id" : "2",
+      "main":"IMG_4446.JPEG",
+      "title": "Ürün 2",
+      "details" : {
+        "images" : ["IMG_4445.JPEG","IMG_4446.JPEG"],
+        "primaryText": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vitae soluta explicabo cumque, unde illum repudiandae expedita ut vel quidem eveniet obcaecati doloribus aspernatur, maiores recusandae minus suscipit, corrupti fugit commodi delectus officiis. Eligendi, suscipit veniam incidunt, quaerat error sint esse delectus nisi natus corrupti eius eum ipsam rem necessitatibus tenetur laudantium? Nisi ratione, minus iure asperiores exercitationem quaerat sequi quibusdam dolorum distinctio a expedita rem? Dolor odit quae possimus esse, alias enim facilis corrupti officiis expedita commodi voluptate, quia quidem excepturi facere! Officiis nemo quidem ad ex quas iusto in cum nulla dolorum placeat asperiores, obcaecati quis eius autem sint!",
+        "secondaryText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus fugiat impedit esse perspiciatis veniam, perferendis ut eius quae deserunt dicta.",
+        "colors": ["black"]
+      }
+    },
+    {
+      "id" : "2",
+      "main":"IMG_4446.JPEG",
+      "title": "Ürün 3",
+      "details" : {
+        "images" : ["IMG_4445.JPEG","IMG_4446.JPEG"],
+        "primaryText": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vitae soluta explicabo cumque, unde illum repudiandae expedita ut vel quidem eveniet obcaecati doloribus aspernatur, maiores recusandae minus suscipit, corrupti fugit commodi delectus officiis. Eligendi, suscipit veniam incidunt, quaerat error sint esse delectus nisi natus corrupti eius eum ipsam rem necessitatibus tenetur laudantium? Nisi ratione, minus iure asperiores exercitationem quaerat sequi quibusdam dolorum distinctio a expedita rem? Dolor odit quae possimus esse, alias enim facilis corrupti officiis expedita commodi voluptate, quia quidem excepturi facere! Officiis nemo quidem ad ex quas iusto in cum nulla dolorum placeat asperiores, obcaecati quis eius autem sint!",
+        "secondaryText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus fugiat impedit esse perspiciatis veniam, perferendis ut eius quae deserunt dicta.",
+        "colors": ["black"]
+      }
+    }
+  ]
+}
