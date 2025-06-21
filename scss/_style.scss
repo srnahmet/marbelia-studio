@@ -52,6 +52,7 @@
   --prime-marbelia-3:#123458;
   --prime-marbelia-4:#030303;
   --prime-marbelia-5:white;
+  --prime-marbelia-6:#7e7c7a;
 
 }
 ::selection {
@@ -661,7 +662,8 @@ body .btn-one {
   transition: all 0.3s ease-in-out;
 }
 body .btn-one:hover {
-  background: var(--prime-one);
+  background: var(--prime-marbelia-2);
+  border-color: var(--prime-marbelia-4);
 }
 body .btn-two {
   color: #fff;
@@ -3993,11 +3995,12 @@ body .btn-twentySix:hover:after {
   font-size: 35px;
   background: rgba(255, 255, 255, 0.3);
   margin: 30% auto 0;
-  transform: translateY(30px);
+  transform: translateY(-50%);
   transition-delay: 0.05s;
 }
 .portfolio-block-one .hover-state span:hover {
-  background: var(--prime-two);
+  background: var(--prime-marbelia-2);
+  border-color: var(--prime-marbelia-4);
 }
 .portfolio-block-one:hover .hover-state {
   opacity: 1;
@@ -8862,8 +8865,8 @@ body .btn-twentySix:hover:after {
   transition: all 0.3s ease-in-out;
 }
 .footer-style-twelve .social-icon a:hover {
-  background: var(--prime-twelve);
-  border-color: var(--prime-twelve);
+  background: var(--prime-marbelia-1);
+  border-color: var(--prime-marbelia-4);
   color: #000;
 }
 .footer-style-twelve .copyright {
@@ -9435,8 +9438,8 @@ body .btn-twentySix:hover:after {
   margin-top: 20px;
 }
 .portfolio-details-two .project-pagination .arrow:hover {
-  background: var(--prime-ten);
-  border-color: var(--prime-ten);
+  background: var(--prime-marbelia-2);
+  border-color: var(--prime-marbelia-1);
 }
 /*^^^^^^^^^^^^^^^^^^^^^ Portfolio Details Two ^^^^^^^^^^^^^^^^^^^^^^^^*/
 .portfolio-details-two #gallery-carousel [class*="carousel-control-"] {
